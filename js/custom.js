@@ -1,17 +1,17 @@
 'use strict';
 
-// const answers = [];
+const answers = [];
 
-// answers[0] = prompt('Как ваше имя?', '');
-// answers[1] = prompt('Сколько вам лет?', '');
-// answers[2] = prompt('Вы мужчина?', '');
+answers[0] = prompt('Как ваше имя?', '');
+answers[1] = prompt('Сколько вам лет?', '');
+answers[2] = prompt('Вы мужчина?', '');
 
-// console.log(answers);
+console.log(answers);
 
-// const category = 'toys';
+const category = 'toys';
 
-// console.log(`https://www.someurl.com/${category}/5`);
+console.log(`https://www.someurl.com/${category}/5`);
 
-// const user = 'Оля';
+const user = 'Оля';
 
-// alert(`Привет, ${user}`);
+alert(`Привет, ${user}`);
